@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "snoowrap": "^1.23.0",
+    "reddit": "^1.2.1",
+    "reddit-snooper": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo penis",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
